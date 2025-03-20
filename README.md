@@ -1,0 +1,2 @@
+# EffectiveCpp
+effective cpp code
